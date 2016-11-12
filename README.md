@@ -1,2 +1,3 @@
-# mv-octopus
-model view octopus
+Please use the hyperdev branch
+
+Model view Octopus
